@@ -16,8 +16,12 @@ hi i play minecraft and shit
 
 # talk to me
 discord - macpherson#1415
+
 guilded - guilded.gg/g1ga
+
 reddit- u/Xianthu_Exists
+
+github - this page
 
 # badges and stuff
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Errorcrafter&theme=prussian"/>
