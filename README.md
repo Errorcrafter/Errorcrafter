@@ -1,4 +1,4 @@
-hi i play minecraft and shit
+hi i play minecraft and shit :trollface:
 
 # programming languages i know
 #### things im a master at
