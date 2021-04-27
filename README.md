@@ -23,5 +23,7 @@ reddit- u/Xianthu_Exists
 
 github - this page
 
+i also have like 83902749 alts so be wary of anyone you talk to
+
 # badges and stuff
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Errorcrafter&theme=prussian"/>
