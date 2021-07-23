@@ -7,12 +7,11 @@ hi i play minecraft and shit :trollface:
 - i'm sad now
 #### things i sort of know
 - java
-- c#
-- css (not a programming language but its still notable)
+- js
+- html/css (not a programming language but its still notable)
 #### things i know from skidding
-- node.js
-- regular js
--
+- c#
+- what was i talking about?
 
 # talk to me
 discord - macpherson#1415
