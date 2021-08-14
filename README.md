@@ -32,3 +32,5 @@ i also have like 83902749 alts so be wary of anyone you talk to
 
 
 <img src="https://img.shields.io/github/followers/Errorcrafter?color=blue&logo=red&logoColor=red&style=flat-square"> <img src="https://img.shields.io/badge/aaaaaaaaaaaaaaa-aaaaaa-yellow?style=flat-square"> <img src="https://img.shields.io/badge/hail-sun%20corp-ff6739?style=flat-square">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errorcrafter&layout=compact&include_all_commits=true&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunCorpTechnologies&layout=compact&include_all_commits=true&show_icons=true">
