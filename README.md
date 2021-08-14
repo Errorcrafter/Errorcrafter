@@ -1,4 +1,4 @@
-hi i play minecraft and shit :trollface:
+we do a moderate amount of trolling :trollface:
 
 # programming languages i know
 #### things im a master at
