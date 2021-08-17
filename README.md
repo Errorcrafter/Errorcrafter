@@ -21,6 +21,12 @@ personal powercord theme. updated sporadically
 - c#
 - what was i talking about?
 
+# cool ppl
+- [BalaM314](https://github.com/BalaM314) - based js dev that is actually intelligent and can write actually original code. plays modded mc because **yes**
+- [QDqrk](https://github.com/DexPolarity) - doesnt actually code but hes nice too
+- [Napoleon](https://github.com/Napoleon-ZoomberParts) - based java dev. made xatz client and snipeware because DEATH TO REDESKY BITCHES! also made sigma-deleter lmaoo
+- [DezApical / Salseo](https://replit.com/@ashsley654321) - discord.js bot maker. yes its replit he doesnt use github apparently
+
 # talk to me
 discord - macpherson#1415
 
