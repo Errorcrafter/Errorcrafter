@@ -2,7 +2,7 @@ we do a moderate amount of trolling :trollface:
 
 # projects
 ## [solarutils (closed source)](https://github.com/SunCorpTechnologies/SolarUtils-releases)
-based latest version minecraft plugin that (mostly) solves plugin bloat. in early alpha. on hold rn as [main dev](https://github.com/hy-6) is dealing with some irl stuff now
+based latest version minecraft plugin that (mostly) solves plugin bloat. in early alpha. on hold rn as [main dev](https://github.com/hy-6) is dealing with some irl stuff now. [discord](https://discord.com/invite/akWs5zhfMJ)
 ## [pyrocord](https://github.com/Errorcrafter/PyroCord)
 personal powercord theme. updated sporadically
 
