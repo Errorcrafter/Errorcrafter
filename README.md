@@ -1,15 +1,23 @@
 we do a moderate amount of trolling :trollface:
 
+# projects
+## [solarutils (closed source)](https://github.com/SunCorpTechnologies/SolarUtils-releases)
+based latest version minecraft plugin that (mostly) solves plugin bloat. in early alpha. on hold rn as [main dev](https://github.com/hy-6) is dealing with some irl stuff now
+## [pyrocord](https://github.com/Errorcrafter/PyroCord)
+personal powercord theme. updated sporadically
+
+[UPDATE THIS]
+
 # programming languages i know
-#### things im a master at
+### things im a master at
 - python
 - literally nothing else
 - i'm sad now
-#### things i sort of know
+### things i sort of know
 - java
 - js
 - html/css (not a programming language but its still notable)
-#### things i know from skidding
+### things i know from skidding
 - c#
 - what was i talking about?
 
@@ -24,7 +32,7 @@ github - this page
 
 i also have like 83902749 alts so be wary of anyone you talk to
 
-# badges and stuff
+# random stuff
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Errorcrafter&theme=prussian"/>
 
 
