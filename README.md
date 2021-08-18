@@ -5,6 +5,8 @@ we do a moderate amount of trolling :trollface:
 based latest version minecraft plugin that (mostly) solves plugin bloat. in early alpha. on hold rn as [main dev](https://github.com/hy-6) is dealing with some irl stuff now. [discord](https://discord.com/invite/akWs5zhfMJ)
 ## [pyrocord](https://github.com/Errorcrafter/PyroCord)
 personal powercord theme. updated sporadically
+## probably something html-related
+anything from a website to something stupid like custom browser landing page cos WOW i am lazy
 ## something that breaks a random service's tos
 why am i like this
 
@@ -51,3 +53,5 @@ i also have like 83902749 alts so be wary of anyone you talk to
 <img src="https://img.shields.io/github/followers/Errorcrafter?color=blue&logo=red&logoColor=red&style=flat-square"> <img src="https://img.shields.io/badge/aaaaaaaaaaaaaaa-aaaaaa-yellow?style=flat-square"> <img src="https://img.shields.io/badge/hail-sun%20corp-ff6739?style=flat-square">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errorcrafter&layout=compact&include_all_commits=true&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunCorpTechnologies&layout=compact&include_all_commits=true&show_icons=true">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Errorcrafter&theme=juicyfresh&no-bg=true" />
