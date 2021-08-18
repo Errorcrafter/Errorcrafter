@@ -5,6 +5,8 @@ we do a moderate amount of trolling :trollface:
 based latest version minecraft plugin that (mostly) solves plugin bloat. in early alpha. on hold rn as [main dev](https://github.com/hy-6) is dealing with some irl stuff now. [discord](https://discord.com/invite/akWs5zhfMJ)
 ## [pyrocord](https://github.com/Errorcrafter/PyroCord)
 personal powercord theme. updated sporadically
+## something that breaks a random service's tos
+why am i like this
 
 [UPDATE THIS]
 
