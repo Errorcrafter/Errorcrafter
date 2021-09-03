@@ -38,7 +38,7 @@ why am i like this
 # talk to me
 discord - macpherson#1415
 
-guilded - guilded.gg/g1ga
+guilded - guilded.gg/u/g1ga
 
 reddit- u/Xianthu_Exists
 
