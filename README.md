@@ -9,6 +9,8 @@ personal powercord theme. updated sporadically
 anything from a website to something stupid like custom browser landing page cos WOW i am lazy
 ## something that breaks a random service's tos
 why am i like this
+## bakdooro
+le funne backdoor plugin. for eductaional purposes only or for bakdooroing retarded 2yo pay2pixel clones
 
 [UPDATE THIS]
 
