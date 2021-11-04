@@ -19,6 +19,7 @@ le funne backdoor plugin. for eductaional purposes only or for bakdooroing retar
 - java
 - js
 - html/css (not a programming language but its still notable)
+- mcfunction (not a standard programming language, probably "esoteric" or whatever the big kids call it)
 ### things i know from skidding
 - c#
 - what was i talking about?
@@ -40,7 +41,7 @@ guilded - guilded.gg/u/g1ga
 
 reddit- u/Xianthu_Exists
 
-github - this page
+github - this page (hello)
 
 i also have like 83902749 alts so be wary of anyone you talk to
 
