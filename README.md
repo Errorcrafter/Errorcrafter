@@ -20,6 +20,7 @@ le funne backdoor plugin. for eductaional purposes only or for bakdooroing retar
 - js
 - html/css (not a programming language but its still notable)
 - mcfunction (not a standard programming language, probably "esoteric" or whatever the big kids call it)
+- Scratch (hey look something that IS a programming language. its one for kids but i mean)
 ### things i know from skidding
 - c#
 - what was i talking about?
