@@ -26,7 +26,7 @@ le funne backdoor plugin. for eductaional purposes only or for bakdooroing retar
 # cool ppl
 - [BalaM314](https://github.com/BalaM314) - based fullstack dev that is actually intelligent and can write actually original code. plays modded mc because **yes**
 - [QDqrk](https://github.com/DexPolarity) - doesnt actually code but hes nice too
-- [Napoleon](https://github.com/Napoleon-Zoomberparts) - based java dev. made xatz client and snipeware because DEATH TO PAY2PIXEL BITCHES! also made sigma-deleter lmaoo
+- [Napoleon](https://github.com/Napoleon-x) - based java dev. made xatz client and snipeware because DEATH TO PAY2PIXEL BITCHES! also made sigma-deleter lmaoo
 - [DezApical](https://replit.com/@ashsley654321) - discord.js bot maker. yes its replit he doesnt use github apparently
 - [Hyperium06](https://github.com/hy-6) - cool solarutils owner guy
 - [KoljanGaming](https://github.com/KoljanGaming) - koljan gaming
