@@ -6,7 +6,7 @@ based latest version minecraft plugin that (mostly) solves plugin bloat. in earl
 ## [pyrocord](https://github.com/Errorcrafter/PyroCord)
 personal powercord theme. updated sporadically
 ## [bakdooro](https://github.com/Bakdooro)
-le funne backdoor plugin. for eductaional purposes only or for bakdooroing retarded 2yo pay2pixel clones
+le funne backdoor plugin. for eductaional purposes only or for bakdooroing retarded 2yo pay2pixel clones. would not recommend using since it is more broken than my relationship with my parents
 
 [UPDATE THIS]
 
@@ -31,9 +31,10 @@ le funne backdoor plugin. for eductaional purposes only or for bakdooroing retar
 - [Hyperium06](https://github.com/hy-6) - cool solarutils owner guy
 - [KoljanGaming](https://github.com/KoljanGaming) - koljan gaming
 - if you are cool and want to be here open pull request
-<!-- todo: add naakte and koljan and heyaglitz --->
 
 # talk to me
+if you want me to half-ass a shitty project dm me
+
 discord - macpherson#1415
 
 guilded - guilded.gg/u/g1ga
@@ -53,7 +54,7 @@ i also have like 83902749 alts so be wary of anyone you talk to
 
 <img src="https://img.shields.io/github/followers/Errorcrafter?color=blue&logo=red&logoColor=red&style=flat-square"> <img src="https://img.shields.io/badge/aaaaaaaaaaaaaaa-aaaaaa-yellow?style=flat-square"> <img src="https://img.shields.io/badge/hail-sun%20corp-ff6739?style=flat-square">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errorcrafter&layout=compact&include_all_commits=true&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunCorpTechnologies&layout=compact&include_all_commits=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errorcrafter&layout=compact&include_all_commits=true&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunCorpTechnologies&layout=compact&include_all_commits=true&show_icons=true"> fucking datapack ruined my github stats
 
 <img src="https://github-profile-trophy.vercel.app/?username=Errorcrafter&theme=juicyfresh&no-bg=true" /> ![image](https://user-images.githubusercontent.com/69189354/137567629-171d4790-99b2-44d1-83e8-041eb4004509.png)
 
