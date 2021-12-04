@@ -30,6 +30,7 @@ le funne backdoor plugin. for eductaional purposes only or for bakdooroing retar
 - [DezApical](https://replit.com/@ashsley654321) - discord.js bot maker. yes its replit he doesnt use github apparently
 - [Hyperium06](https://github.com/hy-6) - cool solarutils owner guy
 - [KoljanGaming](https://github.com/KoljanGaming) - koljan gaming
+- [AcaiBerii](https://github.com/AcaiBerii) - only based pay2pixel skyblock player. made bakdooro, zing clicker, mcsnipe and some other stuff that was cool but i forgot
 - if you are cool and want to be here open pull request
 
 # talk to me
@@ -54,7 +55,12 @@ i also have like 83902749 alts so be wary of anyone you talk to
 
 <img src="https://img.shields.io/github/followers/Errorcrafter?color=blue&logo=red&logoColor=red&style=flat-square"> <img src="https://img.shields.io/badge/aaaaaaaaaaaaaaa-aaaaaa-yellow?style=flat-square"> <img src="https://img.shields.io/badge/hail-sun%20corp-ff6739?style=flat-square">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errorcrafter&layout=compact&include_all_commits=true&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunCorpTechnologies&layout=compact&include_all_commits=true&show_icons=true"> fucking datapack ruined my github stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errorcrafter&layout=compact&include_all_commits=true&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunCorpTechnologies&layout=compact&include_all_commits=true&show_icons=true">
+
+fucking datapack ruined my github stats
 
 <img src="https://github-profile-trophy.vercel.app/?username=Errorcrafter&theme=juicyfresh&no-bg=true" /> ![image](https://user-images.githubusercontent.com/69189354/137567629-171d4790-99b2-44d1-83e8-041eb4004509.png)
+
+![image](https://user-images.githubusercontent.com/69189354/144714382-d644ddec-e960-4433-a969-cefee768b92c.png)
+
 
