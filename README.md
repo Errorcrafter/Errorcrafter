@@ -38,7 +38,7 @@ if you want me to half-ass a shitty project dm me
 
 discord - macpherson#1415
 
-guilded - guilded.gg/u/g1ga
+guilded - guilded.gg/u/g1ga | never active
 
 reddit- u/Xianthu_Exists
 
