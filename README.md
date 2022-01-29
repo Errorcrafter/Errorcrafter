@@ -44,7 +44,7 @@ reddit- u/Xianthu_Exists
 
 github - this page
 
-i also have like 83902749 alts so be wary of anyone you talk to
+i also have like ```0x7FFFFFFFFFFFFFFF``` alts so be wary of anyone you talk to
 
 # random stuff
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Errorcrafter&theme=prussian"/>
