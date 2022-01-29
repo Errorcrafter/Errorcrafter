@@ -30,7 +30,7 @@ le funne backdoor plugin. for eductaional purposes only or for bakdooroing retar
 - [DezApical](https://replit.com/@ashsley654321) - discord.js bot maker. yes its replit he doesnt use github apparently
 - [Hyperium06](https://github.com/hy-6) - cool solarutils owner guy
 - [KoljanGaming](https://github.com/KoljanGaming) - koljan gaming
-- [AcaiBerii](https://github.com/AcaiBerii) - only based pay2pixel skyblock player. made bakdooro, zing clicker, mcsnipe and some other stuff that was cool but i forgot
+- [AcaiBerii](https://github.com/AcaiBerii) - only based pay2pixel player. made bakdooro, zing clicker, mcsnipe and some other stuff that was cool but i forgot with the r very funny 💀☠️
 - if you are cool and want to be here open pull request
 
 # talk to me
@@ -44,7 +44,7 @@ reddit- u/Xianthu_Exists
 
 github - this page
 
-i also have like 83902749 alts so be wary of anyone you talk to
+i also have like ```0x7FFFFFFFFFFFFFFF``` alts so be wary of anyone you talk to
 
 # random stuff
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Errorcrafter&theme=prussian"/>
