@@ -1,12 +1,12 @@
 we do a moderate amount of trolling :trollface:
 
 # projects
-## [solarutils (closed source)](https://github.com/SunCorpTechnologies/SolarUtils-releases)
-based latest version minecraft plugin that (mostly) solves plugin bloat. in early alpha. on hold rn as [main dev](https://github.com/hy-6) is dealing with some irl stuff now. [discord](https://discord.com/invite/akWs5zhfMJ)
 ## [pyrocord](https://github.com/Errorcrafter/PyroCord-v2)
 personal powercord theme. updated sporadically
 ## [bakdooro](https://github.com/Bakdooro)
 le funne backdoor plugin. for eductaional purposes only or for bakdooroing retarded 2yo pay2pixel clones. would not recommend using since it is more broken than my relationship with my parents
+## unholy amounts of private projects
+various dumb shit i found funny. tokenlog me for free access :trollface:
 
 [UPDATE THIS]
 
