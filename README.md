@@ -1,5 +1,3 @@
-https://codeberg.org/G1galovaniac
+probably not coming back.
 
-still going to be partially active on gh untill all of my ongoing projects that require me to be here are finished. after that bye bye
-
-old repos will still be up in the hopes that my code will be shitty enough to sabo gh copilot :trollface:
+if you need me contact me via discord or matrix (if youre a nerd) if you dont know how to contact me you dont need me
